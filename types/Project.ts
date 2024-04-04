@@ -8,4 +8,7 @@ export type Project = {
     image: string;
     url: string;
     content: PortableTextBlock[];
+    alt: string;
 }
+
+
